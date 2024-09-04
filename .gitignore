@@ -1,6 +1,7 @@
 *.box
 *.iso
 **/artifacts
+**/github.com
 **/packer_cache
 **/iso
 .DS_Store
@@ -9,3 +10,4 @@ build.pwi
 build.hwm
 .terraform*
 *.tfstate*
+packer-docker.log
