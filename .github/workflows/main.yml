@@ -1,4 +1,4 @@
-name: container build
+name: Build CentOS 9
 
 on:
   push:
